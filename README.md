@@ -1,1 +1,2 @@
 # -First-Order-Logic_Rifki-A.D_2306144
+Prolog adalah bahasa pemrograman berbasis logika yang menggunakan fakta, aturan, dan kueri untuk menyelesaikan masalah. Berbeda dengan bahasa pemrograman imperatif, Prolog lebih fokus pada apa yang harus dicapai daripada bagaimana mencapainya. Dengan mekanisme pencocokan pola dan backtracking, Prolog sangat cocok untuk aplikasi kecerdasan buatan, sistem pakar, dan pemrosesan bahasa alami.
